@@ -1,0 +1,254 @@
+@media all and (max-width: 600px) and (min-width: 320px) {
+    #home-header-1{
+        background-image: url("../img-assets/home/01-mb-header-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-2{
+        background-image: url("../img-assets/home/02-mb-who-we-are-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-3{
+        background-image: url("../img-assets/home/03-mb-branches-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+    #home-header-4{
+        background-image: url("../img-assets/home/04-mb-online-delivery-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-5{
+        background-image: url("../img-assets/home/05-mb-profile-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: -50px;
+    }
+    #fab-header{
+        background-color:#F9A825;
+        margin-right: 50px;
+        margin-top: -10px;
+    }
+    .home-sections{
+    }
+    #header-btn-1{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 50px;
+        margin-right: 16px;
+    }
+    #header-btn-2{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 30px;
+        margin-left: 24px;
+    }
+    #header-btn-3{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 10px;
+        margin-right: 20px;
+    }
+    #header-btn-4{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 30px;
+        margin-left: 24px;
+    }
+}
+@media all and (max-width: 600px) and (min-width: 360px) {
+
+}
+@media all and (max-width:850px)  and (min-width: 601px) { 
+    #home-header-1{
+        background-image: url("../img-assets/home/01-mb-header-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-2{
+        background-image: url("../img-assets/home/02-mb-who-we-are-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-3{
+        background-image: url("../img-assets/home/03-mb-branches-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+    #home-header-4{
+        background-image: url("../img-assets/home/04-mb-online-delivery-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-5{
+        background-image: url("../img-assets/home/05-mb-profile-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: -50px;
+    }
+    #fab-header{
+        background-color:#F9A825;
+        margin-right: 50px;
+        margin-top: -10px;
+    }
+    .home-sections{
+        height: 600px;
+    }
+    #header-btn-1{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 80px;
+        margin-right: 56px;
+    }
+    #header-btn-2{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 50px;
+        margin-left: 54px;
+    }
+    #header-btn-3{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 30px;
+        margin-right: 50px;
+    }
+    #header-btn-4{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 50px;
+        margin-left: 50px;
+    }
+
+}
+@media (min-width:856px) and (max-width:959px){
+
+}
+@media all and (min-width:959px){
+
+}
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {	
+    #home-header-1{
+        background-image: url("../img-assets/home/01-mb-header-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-2{
+        background-image: url("../img-assets/home/02-mb-who-we-are-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-3{
+        background-image: url("../img-assets/home/03-mb-branches-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+    #home-header-4{
+        background-image: url("../img-assets/home/04-mb-online-delivery-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-5{
+        background-image: url("../img-assets/home/05-mb-profile-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: -50px;
+    }
+    #fab-header{
+        background-color:#F9A825;
+        margin-right: 50px;
+        margin-top: -10px;
+    }
+    .home-sections{
+        height: 800px;
+    }
+    #header-btn-1{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 150px;
+        margin-right: 66px;
+    }
+    #header-btn-2{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 130px;
+        margin-left: 64px;
+    }
+    #header-btn-3{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 70px;
+        margin-right: 65px;
+    }
+    #header-btn-4{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 130px;
+        margin-left: 64px;
+    }
+}
+@media all and (min-width:1366px){
+    #home-header-1{
+        background-image: url("../img-assets/home/01-mb-header.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-2{
+        background-image: url("../img-assets/home/02-mb-who-we-are.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: -100px;
+    }
+    #home-header-3{
+        background-image: url("../img-assets/home/03-mb-branches.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+    #home-header-4{
+        background-image: url("../img-assets/home/04-mb-online-delivery.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-5{
+        background-image: url("../img-assets/home/05-mb-profiles.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: -100px;
+    }
+    #fab-header{
+        background-color:#F9A825;
+        margin-right: 100px;
+        margin-top: -10px;
+    }
+    .home-sections{
+        height: 680px;
+    }
+    #header-btn-1{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 100px;
+        margin-right: 70px;
+    }
+    #header-btn-2{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 100px;
+        margin-left: 84px;
+    }
+    #header-btn-3{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 60px;
+        margin-right: 70px;
+    }
+    #header-btn-4{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 100px;
+        margin-left: 80px;
+    }
+    
+}
+.card-parent{
+    margin-top: -200px;
+}

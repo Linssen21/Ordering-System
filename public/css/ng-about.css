@@ -1,0 +1,331 @@
+@media all and (max-width: 600px) and (min-width: 320px) {
+    .header1-cards{
+        margin-top: 100px;
+        width: 90%;
+        height: 900px;
+        position: relative;
+	}
+	.card-img-1{
+		width: 400px;
+		height: 500px;
+	}
+	#head-img{
+		width: 500px;
+	}
+	#card-images-head{
+		justify-content: center;
+		align-items: center;
+		align-self: center;
+		width: 100%;
+		height: 100%;
+	}
+	.md-headline-1{
+		font-size: 56px;
+		font-weight: 300;
+		line-height: 56px;
+        margin-top: 10px;
+        text-align: center;
+	}
+	.md-subhead-1{
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 14px;
+        margin-top: 10px;
+        justify-content: left;
+        text-align: justify;
+	}
+	.line-separator{
+		width: 200px;
+		height: 5px;
+        margin-left: 20px;
+        align-self: center;
+	}
+	.card-img-1{
+		width: 500px;
+    }
+    #fab-header{
+		background-color:#F9A825;
+		position: absolute;
+        top: 970px;
+    }
+    #main-content{
+        background-image: url("../img-assets/about/header-bg-1.jpg");
+    }
+}
+@media all and (max-width: 600px) and (min-width: 360px) {
+    .header1-cards{
+        margin-top: 100px;
+        width: 90%;
+        height: 825px;
+        position: relative;
+	}
+	.card-img-1{
+		width: 400px;
+		height: 500px;
+	}
+	#head-img{
+		width: 500px;
+	}
+	#card-images-head{
+		justify-content: center;
+		align-items: center;
+		align-self: center;
+		width: 100%;
+		height: 100%;
+	}
+	.md-headline-1{
+		font-size: 56px;
+		font-weight: 300;
+		line-height: 56px;
+        margin-top: 10px;
+        text-align: center;
+	}
+	.md-subhead-1{
+		font-size: 14px;
+		font-weight: 400;
+		line-height: 14px;
+        margin-top: 10px;
+        justify-content: left;
+        text-align: justify;
+	}
+	.line-separator{
+		width: 200px;
+		height: 5px;
+        margin-left: 20px;
+        align-self: center;
+	}
+	.card-img-1{
+		width: 500px;
+    }
+    #fab-header{
+		background-color:#F9A825;
+		position: absolute;
+        top: 890px;
+    }
+    #main-content{
+        background-image: url("../img-assets/about/header-bg-1.jpg");
+    }
+}
+@media all and (max-width:850px)  and (min-width: 601px) { 
+    
+}
+
+@media (min-width:856px) and (max-width:959px){
+    
+}
+@media all and (min-width:959px){
+    
+}
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {	
+    .header1-cards{
+        height: 1100px;
+        width: 700px;
+        margin-top: 100px;
+	}
+	.card-img-1{
+		width: 700px;
+		height: 500px;
+	}
+	#head-img{
+		width: 500px;
+	}
+	#card-images-head{
+		justify-content: center;
+		align-items: center;
+		align-self: center;
+		width: 100%;
+		height: 100%;
+	}
+	.md-headline-1{
+		margin-left: 20px;
+		font-size: 56px;
+		font-weight: 300;
+		line-height: 56px;
+        margin-top: 10px;
+        text-align: center;
+	}
+	.md-subhead-1{
+		margin-left: 20px;
+		font-size: 24px;
+		font-weight: 400;
+		line-height: 24px;
+        margin-top: 40px;
+        justify-content: left;
+        text-align: justify;
+	}
+	.line-separator{
+		width: 200px;
+		height: 5px;
+        margin-left: 20px;
+        align-self: center;
+	}
+	.card-img-1{
+		width: 500px;
+	}
+	#fab-header{
+		background-color:#F9A825;
+		margin-right: 100px;
+        position: absolute;
+        top: 300px;
+        right: -50px;
+    }
+}
+@media all and (min-width:1366px){
+    .header1-cards{
+        height: 800px;
+        width: 1000px;
+        margin-top: 100px;
+	}
+	.card-img-1{
+		width: 700px;
+		height: 500px;
+	}
+	#head-img{
+		width: 500px;
+	}
+	#card-images-head{
+		justify-content: center;
+		align-items: center;
+		align-self: center;
+		width: 100%;
+		height: 100%;
+	}
+	.md-headline-1{
+		font-size: 56px;
+		font-weight: 300;
+		line-height: 56px;
+        margin-top: 10px;
+        text-align: center;
+	}
+	.md-subhead-1{
+		font-size: 20px;
+		font-weight: 400;
+		line-height: 20px;
+        margin-top: 10px;
+        justify-content: left;
+        text-align: justify;
+	}
+	.line-separator{
+		width: 200px;
+		height: 5px;
+        align-self: center;
+	}
+	.card-img-1{
+		width: 500px;
+	}
+	#fab-header{
+		background-color:#F9A825;
+		position: absolute;
+        top: 405px;
+        right: -50px;
+    }
+    
+}
+
+body{
+	font-family: 'Roboto' sans-serif;
+    background: #FAFAFA;
+}
+
+#main-content{
+    background-image: url("../img-assets/about/header-bg-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.md-headline-1{
+	color: #3E2723;
+	font-variant-caps: all-petite-caps;
+}
+
+.md-subhead-1{
+    color: #3E2723;
+    text-indent: 50px;
+}
+
+.md-toolbar-tools{
+	background-color:#F9A825;
+}
+#great-deals-header{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+#fab-header{
+	background-color:#F9A825;
+	margin-right: 100px;
+}
+#header-card-actions{
+	background-color:#F9A825;
+	margin: 0;
+	padding: 5px;
+	padding-top:6px; 
+	color: white;
+}
+#mc-footer{
+	margin-top: 50px;
+	background-color: #F9A825;
+	color: white;
+	height: 100px;
+}
+#mc-footer-copyright{
+	margin-top: -2px;
+	background-color: #F9A825;
+	color: white;
+	height: 20px;
+	padding-bottom: 30px;
+}
+#mc-footer-bottom{
+	background-color: #F9A825;
+	color: white;
+	height: 150px;
+	padding-right: 50px;
+	margin-top: -5px;
+}
+#footer-fab{
+	background-color: white;
+}
+#footer-links{
+	margin: 0px;
+	text-align: left;
+	width: 200px;
+    text-align: left;
+	margin-left: 0px;
+	justify-content: flex-start;
+}
+#footer-links-start{
+	margin: 0px;
+	text-align: left;
+	width: 100px;
+    text-align: left;
+	margin-left: 50px;
+	justify-content: flex-start;
+}
+#footer-links-end{
+	margin: 0px;
+	text-align: left;
+	width: 150px;
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 70px;
+	justify-content: flex-start;
+}
+#footer-copyright{
+	font-size: 14px;
+    margin-bottom: 20px;
+}
+#footer-links-div{
+	justify-content: flex-start;
+	width: 100%;
+}
+#footer-links-div-parent{
+	width: 100%;
+}
+#nav-buttons{
+	margin: 0px;
+	text-align: left;
+	height: 56px;
+}
+#menu-text{
+	margin-left: 20px;
+}

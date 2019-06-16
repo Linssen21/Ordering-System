@@ -1,0 +1,324 @@
+@media all and (max-width: 600px) and (min-width: 320px) {
+    #home-header-1{
+        background-image: url("../img-assets/home/01-mb-header-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-2{
+        background-image: url("../img-assets/home/02-mb-who-we-are-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-3{
+        background-image: url("../img-assets/home/03-mb-branches-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+    #home-header-4{
+        background-image: url("../img-assets/home/04-mb-online-delivery-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-5{
+        background-image: url("../img-assets/home/05-mb-profile-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: -50px;
+    }
+    #fab-header{
+        background-color:#F9A825;
+        margin-right: 50px;
+        margin-top: -10px;
+    }
+    .home-sections{
+    }
+    #header-btn-1{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 50px;
+        margin-right: 16px;
+    }
+    #header-btn-2{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 30px;
+        margin-left: 24px;
+    }
+    #header-btn-3{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 10px;
+        margin-right: 20px;
+    }
+    #header-btn-4{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 30px;
+        margin-left: 24px;
+    }
+}
+@media all and (max-width: 600px) and (min-width: 360px) {
+
+}
+@media all and (max-width:850px)  and (min-width: 601px) { 
+    #home-header-1{
+        background-image: url("../img-assets/home/01-mb-header-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-2{
+        background-image: url("../img-assets/home/02-mb-who-we-are-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-3{
+        background-image: url("../img-assets/home/03-mb-branches-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+    #home-header-4{
+        background-image: url("../img-assets/home/04-mb-online-delivery-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-5{
+        background-image: url("../img-assets/home/05-mb-profile-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: -50px;
+    }
+    #fab-header{
+        background-color:#F9A825;
+        margin-right: 50px;
+        margin-top: -10px;
+    }
+    .home-sections{
+        height: 600px;
+    }
+    #header-btn-1{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 80px;
+        margin-right: 56px;
+    }
+    #header-btn-2{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 50px;
+        margin-left: 54px;
+    }
+    #header-btn-3{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 30px;
+        margin-right: 50px;
+    }
+    #header-btn-4{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 50px;
+        margin-left: 50px;
+    }
+
+}
+@media (min-width:856px) and (max-width:959px){
+
+}
+@media all and (min-width:959px){
+
+}
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {	
+    #home-header-1{
+        background-image: url("../img-assets/home/01-mb-header-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-2{
+        background-image: url("../img-assets/home/02-mb-who-we-are-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-3{
+        background-image: url("../img-assets/home/03-mb-branches-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+    #home-header-4{
+        background-image: url("../img-assets/home/04-mb-online-delivery-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-5{
+        background-image: url("../img-assets/home/05-mb-profile-mobile.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: -50px;
+    }
+    #fab-header{
+        background-color:#F9A825;
+        margin-right: 50px;
+        margin-top: -10px;
+    }
+    .home-sections{
+        height: 800px;
+    }
+    #header-btn-1{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 150px;
+        margin-right: 66px;
+    }
+    #header-btn-2{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 130px;
+        margin-left: 64px;
+    }
+    #header-btn-3{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 70px;
+        margin-right: 65px;
+    }
+    #header-btn-4{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 130px;
+        margin-left: 64px;
+    }
+}
+@media all and (min-width:1366px){
+    #home-header-1{
+        background-image: url("../img-assets/home/01-mb-header.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-2{
+        background-image: url("../img-assets/home/02-mb-who-we-are.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-top: -100px;
+    }
+    #home-header-3{
+        background-image: url("../img-assets/home/03-mb-branches.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+    #home-header-4{
+        background-image: url("../img-assets/home/04-mb-online-delivery.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    #home-header-5{
+        background-image: url("../img-assets/home/05-mb-profiles.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: -100px;
+    }
+    #fab-header{
+        background-color:#F9A825;
+        margin-right: 100px;
+        margin-top: -10px;
+    }
+    .home-sections{
+        height: 680px;
+    }
+    #header-btn-1{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 100px;
+        margin-right: 70px;
+    }
+    #header-btn-2{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 100px;
+        margin-left: 84px;
+    }
+    #header-btn-3{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 60px;
+        margin-right: 70px;
+    }
+    #header-btn-4{
+        color: white;
+        background-color:#F9A825;
+        margin-bottom: 100px;
+        margin-left: 80px;
+    }
+    
+}
+.card-parent{
+    margin-top: -200px;
+}
+.chipsdemoBasicUsage .errors {
+    font-size: 12px;
+    color: #dd2c00;
+    margin-top: 10px; }
+  
+  .chipsdemoBasicUsage .custom-chips md-chip {
+    position: relative; }
+    .chipsdemoBasicUsage .custom-chips md-chip .md-chip-remove-container {
+      position: absolute;
+      right: 4px;
+      top: 4px;
+      margin-right: 0;
+      height: 24px; }
+      .chipsdemoBasicUsage .custom-chips md-chip .md-chip-remove-container button.vegetablechip {
+        position: relative;
+        height: 24px;
+        width: 24px;
+        line-height: 30px;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.3);
+        border-radius: 50%;
+        border: none;
+        box-shadow: none;
+        padding: 0;
+        margin: 0;
+        transition: background 0.15s linear;
+        display: block; }
+        .chipsdemoBasicUsage .custom-chips md-chip .md-chip-remove-container button.vegetablechip md-icon {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate3d(-50%, -50%, 0) scale(0.7);
+          color: white;
+          fill: white; }
+        .chipsdemoBasicUsage .custom-chips md-chip .md-chip-remove-container button.vegetablechip:hover, .chipsdemoBasicUsage .custom-chips md-chip .md-chip-remove-container button.vegetablechip:focus {
+          background: rgba(255, 0, 0, 0.8); }
+  
+  .chipsdemoBasicUsage .custom-chips md-chips-wrap.md-removable md-chip md-chip-template {
+    padding-right: 5px; }
+
+    #nav-btns:focus {
+        background-color: #F57F17;
+        color:white;
+    }
+
+    #nav-btns:hover {
+        background-color: #F9A825;
+        color:white;
+    }
+    #nav-btns1:hover {
+        background-color: #F9A825;
+        color:white;
+    }
+    #nav-btns1:link,#nav-btns1:visited {
+        background-color: #F57F17;
+        color:white;
+    }
+
+    #nav-btn:hover {
+        background-color: #f44336;
+        color:white;
+    }
+
+    #n-ic:hover {
+        color: #00C853;
+    }
+
+    #n-ic{
+        color: #F9A825;
+    }
